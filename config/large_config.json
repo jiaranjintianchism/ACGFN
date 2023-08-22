@@ -1,0 +1,16 @@
+{
+  "hidden_size": 512,
+  "intermediate_size": 2048,
+  "num_attention_heads": 8,
+  "conv_depth_wise_kernel_size": 31,
+  "max_source_positions": 10000,
+  "num_hidden_layers": 17,
+  "mel_filter_size": 80,
+  "freq_mask_length": 27,
+  "time_mask_length": 10,
+  "time_mask_prop": 0.05,
+  "resample_rate": 16000,
+  "win_time": 0.025,
+  "stride_time": 0.01,
+  "n_fft": 2048
+}
