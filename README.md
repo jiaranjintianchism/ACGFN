@@ -1,4 +1,4 @@
-# ACGFN
+# ACGFN: A Speech Recognition Model Based on Asymmetric Convolution and Gated Feedforward Neural Network
 ## Installation
   
 ```
